@@ -4,7 +4,7 @@ Uma API REST para consulta de créditos constituídos, desenvolvida com Spring B
 
 ## 🛠 Tecnologias Usadas
 
-- **Java 17**
+- **Java 17** (requisito: Java 8+) Mas ja tinha o java 17 na maquina então foi feito com ele mesmo.
 - **Spring Boot 3.5.5**
 - **Spring Data JPA**
 - **PostgreSQL 15**
